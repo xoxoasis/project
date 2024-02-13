@@ -935,11 +935,11 @@ body.fixed {
     #page02 .page02_inner .work_lst .work_lst_item .info .txt p{
         font-size: 1.2em;
     }
-	#page02 .page02_inner .work_lst .work_lst_item .info_nav{
+/* 	#page02 .page02_inner .work_lst .work_lst_item .info_nav{
 		font-size:0.6em;
 		padding:8px;
 		font-weight: 400;
-	}
+	} */
 }
 @media only screen and (max-width:490px){
 
